@@ -1,4 +1,4 @@
-# Express Authentication
+# Express Authentication 🚉
 
 User authentication with express. Tutorial from Stephen Grider on [Udemy](https://www.udemy.com/course/react-redux-tutorial).
 
