@@ -1,6 +1,6 @@
 # Express Authentication 🚉
 
-User authentication with express. Tutorial from Stephen Grider on [Udemy](https://www.udemy.com/course/react-redux-tutorial).
+Simple user authentication with express and mongo.
 
 ### Installing
 
@@ -33,3 +33,7 @@ npm run dev
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgements
+
+[Udemy](https://www.udemy.com/course/react-redux-tutorial) course.
