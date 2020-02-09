@@ -1,6 +1,6 @@
 # Express Authentication 🚉
 
-Simple user authentication with express and mongo.
+Simple user authentication boilerplate with protected routes.
 
 ### Installing
 
@@ -21,13 +21,15 @@ npm run dev
 
 ## Built With
 
+* React
+* Redux/ReduxForm
 * ExpressJS
 * NodeJS
 * MongoDB
 
 ## Features
 
-* User Authentication
+* User Authentication with protected routes 
 
 
 ## License
